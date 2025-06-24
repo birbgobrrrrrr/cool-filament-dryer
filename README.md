@@ -2,8 +2,8 @@
 very cool filament dryer
  
 
-
-Hi! I madwe a filament dryer because i didnt feel like paying over 30$ for it, and it just sounded pretty cool. This dryer does use vaccuum technology or dessicant, but instead uses heat to "bake" the PCB. The 12V PCB heatbed and blower fans help circulate hot air around the chamber, while the timer module and temp sensor allow this project to be functional without the help of a PCB or dedicated code. 
+![alt text](<Screenshot 2025-06-17 123134.png>)
+Hi! I made a filament dryer because i didnt feel like paying over 30$ for it, and it just sounded pretty cool. This dryer does use vaccuum technology or dessicant, but instead uses heat to "bake" the PCB. The 12V PCB heatbed and blower fans help circulate hot air around the chamber, while the timer module and temp sensor allow this project to be functional without the help of a PCB or dedicated code. 
 
 BOM:
 

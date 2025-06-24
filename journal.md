@@ -1,7 +1,7 @@
 very chopped journal
 
 Creator: Abhinav A. 
-Time Spent- around 20 hours across almost exactly a month
+Time Spent- 20+ hours across almost exactly a month
 
 
 Note: this isnt going to be that in depth, but js know i actually did work and iterate on this
@@ -29,6 +29,9 @@ june 10th- finally had a decent looking 3d model of the whole thing, realized a 
 
 June 11th- realized i suck at electronics and attempted to make a wiring diagram and also realized that i should be using a different timer module (jz-801, not xyj02). I also used a lot of that guy's wiring diagram because I realized that if i were in control of this, at least 1 explosion/fire would happen. (2 hrs)
 
+Wiring diagram:
+![alt text](<Screenshot 2025-06-24 171912.png>) 
+
 June 13th- Fixed minor issues with the cad, also came across this weird interference that was causing the hood to not close properly. After trying about 5 different solutions, ranging from a gap that would fit the exact shape of the spool to make it fit, to making the hood bigger, and also extending the base. Eventually i founnd out that i am an idiot, and there was space for the spool in the first place and if I just moved it back slightly why do i do this to myself im still mad (4 hrs)
 
 June 4th- started accounting for the fact that i couldnt print everything on my P1S (256mm cubed print volume, so about 10 inches), so the entire day was just slightly resizing everything so I could print everything. 
@@ -37,4 +40,17 @@ things I did:
     -spit the hood into 2 peices, so that I could keep that extra length while also not have 100g of support material, while also making the decision to make the two peices to be held together with heatset inserts, using the dimensions that hackpad gave us.
 (3 hrs)
 
-june 17th, locked in and finished everything, finalized BOM (5 hrs)
+june 17th, locked in and finished everything, finalized BOM
+Some minor/major stuff
+-imported all the components from grabcad (took a stupid amount of time), and created mounting holes/placed them on the thing
+-added holes for electrical components to wire
+-added a vent for the blower fan and then immediately realized that i didnt want it, so i removed it
+-realized that the hinge is buggeed because of some interference, so I added a fillet that should make the hinge not be dumb
+ 
+(3 hrs)
+Before:
+![alt text](<Screenshot 2025-06-24 175420.png>) 
+After:
+![alt text](<Screenshot 2025-06-24 175544.png>)
+
+Final product i think: ![alt text](<Screenshot 2025-06-17 123134.png>)
