@@ -7,10 +7,13 @@ Hi! I made a filament dryer because i didnt feel like paying over 30$ for it, an
 
 BOM:
 
-1x 12V PCB heatbed
-1x JZ801 timer module
-1x w1209 temp controller
-2x blower fans
-1x 12v PSU
-4x silicone spacers
-a lot of ABS
+1x 12V PCB heatbed- 24$
+1x JZ801 timer module- 7.32$
+1x w1209 temp controller- 10$
+2x blower fans- 9$
+1x 12v PSU- 22$
+4x silicone spacers- 7$
+a lot of ABS (672g)- 20$
+Loctite- 7$
+
+Total: ~106$

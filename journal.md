@@ -46,11 +46,18 @@ Some minor/major stuff
 -added holes for electrical components to wire
 -added a vent for the blower fan and then immediately realized that i didnt want it, so i removed it
 -realized that the hinge is buggeed because of some interference, so I added a fillet that should make the hinge not be dumb
- 
-(3 hrs)
-Before:
+ Before:
 ![alt text](<Screenshot 2025-06-24 175420.png>) 
 After:
 ![alt text](<Screenshot 2025-06-24 175544.png>)
+
+(3 hrs)
+
+June 27th, a full 10 days after I thought I finished it:
+-Realized that I'm an idiot and that my printer cant actually fit my parts together. 
+Knowing this I realized that I either had to downsize, or find a way to split the project into 2. Since I already knew that I did not have  enough ABS to print the whole thing in 1 go, I decided to split the big part into 2 peices, and use loctite to bond the 2 parts together instead of redoing the CAD and adding heatset inserts. I also sliced the final model and used bambuStudio to split the parts, resulting in a final STL.
+(1 hour)
+![alt text](<Screenshot 2025-06-27 155618.png>)
+
 
 Final product i think: ![alt text](<Screenshot 2025-06-17 123134.png>)
